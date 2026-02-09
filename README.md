@@ -57,13 +57,13 @@
 |:---:|:---:|
 | ![Menu Builder](assets/screenshot-1.png) | ![Edit Item](assets/screenshot-2.png) |
 
-| Frontend result | White label settings |
+| WooCommerce Settings tab | Frontend result |
 |:---:|:---:|
-| ![Frontend](assets/screenshot-3.png) | ![White Label](assets/screenshot-4.png) |
+| ![Settings Tab](assets/screenshot-3.png) | ![Frontend](assets/screenshot-4.png) |
 
-| Export / Import | Role-based visibility |
+| White label settings | Export / Import |
 |:---:|:---:|
-| ![Export Import](assets/screenshot-5.png) | ![Roles](assets/screenshot-6.png) |
+| ![White Label](assets/screenshot-5.png) | ![Export Import](assets/screenshot-6.png) |
 
 ---
 
