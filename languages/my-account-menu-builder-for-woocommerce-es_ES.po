@@ -1,0 +1,262 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My Account Menu Builder for WooCommerce 1.2.1\n"
+"Report-Msgid-Bugs-To: https://github.com/nurkamol/my-account-menu-builder-for-woocommerce/issues\n"
+"POT-Creation-Date: 2026-02-08 21:10\n"
+"PO-Revision-Date: 2026-02-08 21:10\n"
+"Last-Translator: Nurkamol Vakhidov <nurkamol@gmail.com>\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: my-account-menu-builder-for-woocommerce\n"
+"X-Generator: My Account Menu Builder for WooCommerce\n"
+
+msgid "Account Details"
+msgstr "Detalles de la cuenta"
+
+msgid "Add Item"
+msgstr "Añadir elemento"
+
+msgid "Add Menu Item"
+msgstr "Añadir elemento de menú"
+
+msgid "Add Separator"
+msgstr "Añadir separador"
+
+msgid "Addresses"
+msgstr "Direcciones"
+
+msgid "Author Name"
+msgstr "Nombre del autor"
+
+msgid "Author URL"
+msgstr "URL del autor"
+
+msgid "Badge Text"
+msgstr "Texto de insignia"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Custom CSS Class"
+msgstr "Clase CSS personalizada"
+
+msgid "Dashboard"
+msgstr "Escritorio"
+
+msgid "Delete this menu item?"
+msgstr "¿Eliminar este elemento del menú?"
+
+msgid "Description / Subtitle"
+msgstr "Descripción / Subtítulo"
+
+msgid "Download Count"
+msgstr "Cantidad de descargas"
+
+msgid "Downloads"
+msgstr "Descargas"
+
+msgid "Drag items to reorder"
+msgstr "Arrastra los elementos para reordenar"
+
+msgid "Dynamic Count"
+msgstr "Contador dinámico"
+
+msgid "Enable White Label"
+msgstr "Activar marca blanca"
+
+msgid "Enabled"
+msgstr "Activado"
+
+msgid "Endpoint"
+msgstr "Endpoint"
+
+msgid "Endpoint Content"
+msgstr "Contenido del endpoint"
+
+msgid "Endpoint Slug"
+msgstr "Slug del endpoint"
+
+msgid "Endpoint content supports shortcodes"
+msgstr "El contenido del endpoint admite shortcodes"
+
+msgid "Endpoint slug is required."
+msgstr "El slug del endpoint es obligatorio."
+
+msgid "Error saving menu."
+msgstr "Error al guardar el menú."
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "HTML or shortcodes for this page (optional)"
+msgstr "HTML o shortcodes para esta página (opcional)"
+
+msgid "Hide from Plugins List"
+msgstr "Ocultar de la lista de plugins"
+
+msgid "Hides this plugin from the WordPress Plugins page."
+msgstr "Oculta este plugin de la página de Plugins de WordPress."
+
+msgid "Icon"
+msgstr "Icono"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Invalid import data."
+msgstr "Datos de importación no válidos."
+
+msgid "Label shown on the WooCommerce Settings tab."
+msgstr "Etiqueta mostrada en la pestaña de Ajustes de WooCommerce."
+
+msgid "Leave all unchecked = visible to everyone."
+msgstr "Dejar todo desmarcado = visible para todos."
+
+msgid "Leave roles empty = visible to all"
+msgstr "Dejar roles vacíos = visible para todos"
+
+msgid "Link"
+msgstr "Enlace"
+
+msgid "Live Preview"
+msgstr "Vista previa en vivo"
+
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+msgid "Menu Builder"
+msgstr "Constructor de menú"
+
+msgid "Menu imported successfully!"
+msgstr "¡Menú importado correctamente!"
+
+msgid "Menu item title"
+msgstr "Título del elemento de menú"
+
+msgid "Menu saved successfully!"
+msgstr "¡Menú guardado correctamente!"
+
+msgid "My Account Menu"
+msgstr "Menú de Mi cuenta"
+
+msgid "My Account Menu Builder"
+msgstr "Constructor de menú de Mi cuenta"
+
+msgid "New Tab"
+msgstr "Nueva pestaña"
+
+msgid "No menu items yet. Click \"Add Item\" to get started."
+msgstr "Aún no hay elementos. Haz clic en \"Añadir elemento\" para empezar."
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Open In"
+msgstr "Abrir en"
+
+msgid "Order Count"
+msgstr "Cantidad de pedidos"
+
+msgid "Orders"
+msgstr "Pedidos"
+
+msgid "Plugin Name"
+msgstr "Nombre del plugin"
+
+msgid "Quick Tips"
+msgstr "Consejos rápidos"
+
+msgid "Quick pick:"
+msgstr "Selección rápida:"
+
+msgid "Rebrand this plugin for client projects."
+msgstr "Personaliza este plugin para proyectos de clientes."
+
+msgid "Reset Defaults"
+msgstr "Restablecer valores predeterminados"
+
+msgid ""
+"Reset menu to WooCommerce defaults? This will discard all customizations."
+msgstr ""
+"¿Restablecer el menú a los valores de WooCommerce? Esto descartará todas las"
+" personalizaciones."
+
+msgid "Same Tab"
+msgstr "Misma pestaña"
+
+msgid "Save Item"
+msgstr "Guardar elemento"
+
+msgid "Save Menu"
+msgstr "Guardar menú"
+
+msgid "Save Permalinks if new endpoints 404"
+msgstr "Guarda los enlaces permanentes si los nuevos endpoints dan 404"
+
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Settings Tab Label"
+msgstr "Etiqueta de la pestaña de ajustes"
+
+msgid "Settings saved! Reload to see changes."
+msgstr "¡Ajustes guardados! Recarga para ver los cambios."
+
+msgid "Short description shown below title"
+msgstr "Breve descripción mostrada debajo del título"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Title is required."
+msgstr "El título es obligatorio."
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL is required for link items."
+msgstr "La URL es obligatoria para elementos de enlace."
+
+msgid ""
+"URL-friendly slug (lowercase, hyphens). Will appear as /my-account/your-"
+"slug/"
+msgstr ""
+"Slug compatible con URL (minúsculas, guiones). Aparecerá como /my-"
+"account/tu-slug/"
+
+msgid "Use separators to group items"
+msgstr "Usa separadores para agrupar elementos"
+
+msgid "Visible to Roles"
+msgstr "Visible para roles"
+
+msgid "Welcome to %s."
+msgstr "Bienvenido a %s."
+
+msgid "White Label"
+msgstr "Marca blanca"
+
+msgid "White Label Settings"
+msgstr "Ajustes de marca blanca"
+
+msgid "My Account Menu Builder for WooCommerce"
+msgstr "Woo Constructor de menú de Mi cuenta"
+
+msgid "WooCommerce is required. Please install and activate WooCommerce."
+msgstr "WooCommerce es necesario. Por favor, instala y activa WooCommerce."
+
+msgid "e.g. New, Pro, Hot"
+msgstr "ej. Nuevo, Pro, Popular"
+
+msgid "my-custom-class"
+msgstr "mi-clase-personalizada"

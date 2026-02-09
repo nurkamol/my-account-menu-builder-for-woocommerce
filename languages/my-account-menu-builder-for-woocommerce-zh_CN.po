@@ -1,0 +1,258 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My Account Menu Builder for WooCommerce 1.2.1\n"
+"Report-Msgid-Bugs-To: https://github.com/nurkamol/my-account-menu-builder-for-woocommerce/issues\n"
+"POT-Creation-Date: 2026-02-08 21:10\n"
+"PO-Revision-Date: 2026-02-08 21:10\n"
+"Last-Translator: Nurkamol Vakhidov <nurkamol@gmail.com>\n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: my-account-menu-builder-for-woocommerce\n"
+"X-Generator: My Account Menu Builder for WooCommerce\n"
+
+msgid "Account Details"
+msgstr "账户详情"
+
+msgid "Add Item"
+msgstr "添加项目"
+
+msgid "Add Menu Item"
+msgstr "添加菜单项"
+
+msgid "Add Separator"
+msgstr "添加分隔线"
+
+msgid "Addresses"
+msgstr "地址"
+
+msgid "Author Name"
+msgstr "作者名称"
+
+msgid "Author URL"
+msgstr "作者网址"
+
+msgid "Badge Text"
+msgstr "徽章文本"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Custom CSS Class"
+msgstr "自定义CSS类"
+
+msgid "Dashboard"
+msgstr "仪表盘"
+
+msgid "Delete this menu item?"
+msgstr "删除此菜单项？"
+
+msgid "Description / Subtitle"
+msgstr "描述 / 副标题"
+
+msgid "Download Count"
+msgstr "下载数量"
+
+msgid "Downloads"
+msgstr "下载"
+
+msgid "Drag items to reorder"
+msgstr "拖动项目以重新排序"
+
+msgid "Dynamic Count"
+msgstr "动态计数"
+
+msgid "Enable White Label"
+msgstr "启用白标"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Endpoint"
+msgstr "端点"
+
+msgid "Endpoint Content"
+msgstr "端点内容"
+
+msgid "Endpoint Slug"
+msgstr "端点别名"
+
+msgid "Endpoint content supports shortcodes"
+msgstr "端点内容支持短代码"
+
+msgid "Endpoint slug is required."
+msgstr "端点别名为必填项。"
+
+msgid "Error saving menu."
+msgstr "保存菜单时出错。"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "HTML or shortcodes for this page (optional)"
+msgstr "此页面的HTML或短代码（可选）"
+
+msgid "Hide from Plugins List"
+msgstr "从插件列表中隐藏"
+
+msgid "Hides this plugin from the WordPress Plugins page."
+msgstr "从WordPress插件页面隐藏此插件。"
+
+msgid "Icon"
+msgstr "图标"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Invalid import data."
+msgstr "无效的导入数据。"
+
+msgid "Label shown on the WooCommerce Settings tab."
+msgstr "显示在WooCommerce设置选项卡上的标签。"
+
+msgid "Leave all unchecked = visible to everyone."
+msgstr "全部不勾选 = 所有人可见。"
+
+msgid "Leave roles empty = visible to all"
+msgstr "角色留空 = 所有人可见"
+
+msgid "Link"
+msgstr "链接"
+
+msgid "Live Preview"
+msgstr "实时预览"
+
+msgid "Logout"
+msgstr "退出登录"
+
+msgid "Menu Builder"
+msgstr "菜单构建器"
+
+msgid "Menu imported successfully!"
+msgstr "菜单导入成功！"
+
+msgid "Menu item title"
+msgstr "菜单项标题"
+
+msgid "Menu saved successfully!"
+msgstr "菜单保存成功！"
+
+msgid "My Account Menu"
+msgstr "我的账户菜单"
+
+msgid "My Account Menu Builder"
+msgstr "我的账户菜单构建器"
+
+msgid "New Tab"
+msgstr "新标签页"
+
+msgid "No menu items yet. Click \"Add Item\" to get started."
+msgstr "尚无菜单项。点击\"添加项目\"开始。"
+
+msgid "None"
+msgstr "无"
+
+msgid "Open In"
+msgstr "打开方式"
+
+msgid "Order Count"
+msgstr "订单数量"
+
+msgid "Orders"
+msgstr "订单"
+
+msgid "Plugin Name"
+msgstr "插件名称"
+
+msgid "Quick Tips"
+msgstr "快速提示"
+
+msgid "Quick pick:"
+msgstr "快速选择："
+
+msgid "Rebrand this plugin for client projects."
+msgstr "为客户项目重新品牌化此插件。"
+
+msgid "Reset Defaults"
+msgstr "重置为默认"
+
+msgid ""
+"Reset menu to WooCommerce defaults? This will discard all customizations."
+msgstr "将菜单重置为WooCommerce默认设置？这将丢弃所有自定义内容。"
+
+msgid "Same Tab"
+msgstr "当前标签页"
+
+msgid "Save Item"
+msgstr "保存项目"
+
+msgid "Save Menu"
+msgstr "保存菜单"
+
+msgid "Save Permalinks if new endpoints 404"
+msgstr "如果新端点显示404，请保存固定链接"
+
+msgid "Save Settings"
+msgstr "保存设置"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Settings Tab Label"
+msgstr "设置选项卡标签"
+
+msgid "Settings saved! Reload to see changes."
+msgstr "设置已保存！刷新页面查看更改。"
+
+msgid "Short description shown below title"
+msgstr "标题下方显示的简短描述"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Title is required."
+msgstr "标题为必填项。"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "URL"
+msgstr "网址"
+
+msgid "URL is required for link items."
+msgstr "链接项目需要填写网址。"
+
+msgid ""
+"URL-friendly slug (lowercase, hyphens). Will appear as /my-account/your-"
+"slug/"
+msgstr "URL友好别名（小写字母、连字符）。将显示为 /my-account/你的别名/"
+
+msgid "Use separators to group items"
+msgstr "使用分隔线对项目进行分组"
+
+msgid "Visible to Roles"
+msgstr "按角色可见性"
+
+msgid "Welcome to %s."
+msgstr "欢迎来到%s。"
+
+msgid "White Label"
+msgstr "白标"
+
+msgid "White Label Settings"
+msgstr "白标设置"
+
+msgid "My Account Menu Builder for WooCommerce"
+msgstr "Woo 我的账户菜单构建器"
+
+msgid "WooCommerce is required. Please install and activate WooCommerce."
+msgstr "需要WooCommerce。请安装并激活WooCommerce。"
+
+msgid "e.g. New, Pro, Hot"
+msgstr "例如：新品、专业、热门"
+
+msgid "my-custom-class"
+msgstr "自定义CSS类名"

@@ -1,0 +1,263 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My Account Menu Builder for WooCommerce 1.2.1\n"
+"Report-Msgid-Bugs-To: https://github.com/nurkamol/my-account-menu-builder-for-woocommerce/issues\n"
+"POT-Creation-Date: 2026-02-08 21:10\n"
+"PO-Revision-Date: 2026-02-08 21:10\n"
+"Last-Translator: Nurkamol Vakhidov <nurkamol@gmail.com>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: my-account-menu-builder-for-woocommerce\n"
+"X-Generator: My Account Menu Builder for WooCommerce\n"
+
+msgid "Account Details"
+msgstr "Данные аккаунта"
+
+msgid "Add Item"
+msgstr "Добавить элемент"
+
+msgid "Add Menu Item"
+msgstr "Добавить пункт меню"
+
+msgid "Add Separator"
+msgstr "Добавить разделитель"
+
+msgid "Addresses"
+msgstr "Адреса"
+
+msgid "Author Name"
+msgstr "Имя автора"
+
+msgid "Author URL"
+msgstr "URL автора"
+
+msgid "Badge Text"
+msgstr "Текст значка"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Custom CSS Class"
+msgstr "Свой CSS-класс"
+
+msgid "Dashboard"
+msgstr "Панель управления"
+
+msgid "Delete this menu item?"
+msgstr "Удалить этот пункт меню?"
+
+msgid "Description / Subtitle"
+msgstr "Описание / Подзаголовок"
+
+msgid "Download Count"
+msgstr "Количество загрузок"
+
+msgid "Downloads"
+msgstr "Загрузки"
+
+msgid "Drag items to reorder"
+msgstr "Перетащите элементы для изменения порядка"
+
+msgid "Dynamic Count"
+msgstr "Динамический счётчик"
+
+msgid "Enable White Label"
+msgstr "Включить White Label"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Endpoint"
+msgstr "Конечная точка"
+
+msgid "Endpoint Content"
+msgstr "Содержимое страницы"
+
+msgid "Endpoint Slug"
+msgstr "Ярлык конечной точки"
+
+msgid "Endpoint content supports shortcodes"
+msgstr "Содержимое поддерживает шорткоды"
+
+msgid "Endpoint slug is required."
+msgstr "Ярлык конечной точки обязателен."
+
+msgid "Error saving menu."
+msgstr "Ошибка сохранения меню."
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "HTML or shortcodes for this page (optional)"
+msgstr "HTML или шорткоды для этой страницы (необязательно)"
+
+msgid "Hide from Plugins List"
+msgstr "Скрыть из списка плагинов"
+
+msgid "Hides this plugin from the WordPress Plugins page."
+msgstr "Скрывает этот плагин со страницы Плагины WordPress."
+
+msgid "Icon"
+msgstr "Иконка"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Invalid import data."
+msgstr "Недопустимые данные импорта."
+
+msgid "Label shown on the WooCommerce Settings tab."
+msgstr "Название на вкладке настроек WooCommerce."
+
+msgid "Leave all unchecked = visible to everyone."
+msgstr "Оставьте всё пустым = видно всем."
+
+msgid "Leave roles empty = visible to all"
+msgstr "Оставьте роли пустыми = видно всем"
+
+msgid "Link"
+msgstr "Ссылка"
+
+msgid "Live Preview"
+msgstr "Предпросмотр"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Menu Builder"
+msgstr "Конструктор меню"
+
+msgid "Menu imported successfully!"
+msgstr "Меню успешно импортировано!"
+
+msgid "Menu item title"
+msgstr "Название пункта меню"
+
+msgid "Menu saved successfully!"
+msgstr "Меню успешно сохранено!"
+
+msgid "My Account Menu"
+msgstr "Меню «Мой аккаунт»"
+
+msgid "My Account Menu Builder"
+msgstr "Конструктор меню «Мой аккаунт»"
+
+msgid "New Tab"
+msgstr "Новая вкладка"
+
+msgid "No menu items yet. Click \"Add Item\" to get started."
+msgstr "Пунктов пока нет. Нажмите «Добавить элемент», чтобы начать."
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Open In"
+msgstr "Открыть в"
+
+msgid "Order Count"
+msgstr "Количество заказов"
+
+msgid "Orders"
+msgstr "Заказы"
+
+msgid "Plugin Name"
+msgstr "Название плагина"
+
+msgid "Quick Tips"
+msgstr "Подсказки"
+
+msgid "Quick pick:"
+msgstr "Быстрый выбор:"
+
+msgid "Rebrand this plugin for client projects."
+msgstr "Ребрендинг плагина для клиентских проектов."
+
+msgid "Reset Defaults"
+msgstr "Сбросить настройки"
+
+msgid ""
+"Reset menu to WooCommerce defaults? This will discard all customizations."
+msgstr ""
+"Сбросить меню к настройкам WooCommerce по умолчанию? Все изменения будут "
+"потеряны."
+
+msgid "Same Tab"
+msgstr "Та же вкладка"
+
+msgid "Save Item"
+msgstr "Сохранить элемент"
+
+msgid "Save Menu"
+msgstr "Сохранить меню"
+
+msgid "Save Permalinks if new endpoints 404"
+msgstr "Сохраните постоянные ссылки, если новые точки выдают 404"
+
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Settings Tab Label"
+msgstr "Название вкладки настроек"
+
+msgid "Settings saved! Reload to see changes."
+msgstr "Настройки сохранены! Перезагрузите страницу."
+
+msgid "Short description shown below title"
+msgstr "Краткое описание под заголовком"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Title is required."
+msgstr "Заголовок обязателен."
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL is required for link items."
+msgstr "URL обязателен для элементов-ссылок."
+
+msgid ""
+"URL-friendly slug (lowercase, hyphens). Will appear as /my-account/your-"
+"slug/"
+msgstr ""
+"URL-совместимый ярлык (строчные буквы, дефисы). Будет отображаться как /my-"
+"account/ваш-ярлык/"
+
+msgid "Use separators to group items"
+msgstr "Используйте разделители для группировки"
+
+msgid "Visible to Roles"
+msgstr "Видимость по ролям"
+
+msgid "Welcome to %s."
+msgstr "Добро пожаловать в %s."
+
+msgid "White Label"
+msgstr "White Label"
+
+msgid "White Label Settings"
+msgstr "Настройки White Label"
+
+msgid "My Account Menu Builder for WooCommerce"
+msgstr "Woo Конструктор меню «Мой аккаунт»"
+
+msgid "WooCommerce is required. Please install and activate WooCommerce."
+msgstr ""
+"Требуется WooCommerce. Пожалуйста, установите и активируйте WooCommerce."
+
+msgid "e.g. New, Pro, Hot"
+msgstr "напр. Новый, Про, Хит"
+
+msgid "my-custom-class"
+msgstr "мой-css-класс"

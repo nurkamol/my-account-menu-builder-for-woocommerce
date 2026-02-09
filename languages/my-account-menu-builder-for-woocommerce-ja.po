@@ -1,0 +1,258 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My Account Menu Builder for WooCommerce 1.2.1\n"
+"Report-Msgid-Bugs-To: https://github.com/nurkamol/my-account-menu-builder-for-woocommerce/issues\n"
+"POT-Creation-Date: 2026-02-08 21:10\n"
+"PO-Revision-Date: 2026-02-08 21:10\n"
+"Last-Translator: Nurkamol Vakhidov <nurkamol@gmail.com>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: my-account-menu-builder-for-woocommerce\n"
+"X-Generator: My Account Menu Builder for WooCommerce\n"
+
+msgid "Account Details"
+msgstr "アカウント詳細"
+
+msgid "Add Item"
+msgstr "項目を追加"
+
+msgid "Add Menu Item"
+msgstr "メニュー項目を追加"
+
+msgid "Add Separator"
+msgstr "区切り線を追加"
+
+msgid "Addresses"
+msgstr "住所"
+
+msgid "Author Name"
+msgstr "著者名"
+
+msgid "Author URL"
+msgstr "著者URL"
+
+msgid "Badge Text"
+msgstr "バッジテキスト"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Custom CSS Class"
+msgstr "カスタムCSSクラス"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Delete this menu item?"
+msgstr "このメニュー項目を削除しますか？"
+
+msgid "Description / Subtitle"
+msgstr "説明 / サブタイトル"
+
+msgid "Download Count"
+msgstr "ダウンロード数"
+
+msgid "Downloads"
+msgstr "ダウンロード"
+
+msgid "Drag items to reorder"
+msgstr "ドラッグして並べ替え"
+
+msgid "Dynamic Count"
+msgstr "動的カウンター"
+
+msgid "Enable White Label"
+msgstr "ホワイトラベルを有効化"
+
+msgid "Enabled"
+msgstr "有効"
+
+msgid "Endpoint"
+msgstr "エンドポイント"
+
+msgid "Endpoint Content"
+msgstr "エンドポイントのコンテンツ"
+
+msgid "Endpoint Slug"
+msgstr "エンドポイントスラッグ"
+
+msgid "Endpoint content supports shortcodes"
+msgstr "エンドポイントのコンテンツはショートコードに対応しています"
+
+msgid "Endpoint slug is required."
+msgstr "エンドポイントスラッグは必須です。"
+
+msgid "Error saving menu."
+msgstr "メニューの保存中にエラーが発生しました。"
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "HTML or shortcodes for this page (optional)"
+msgstr "このページのHTMLまたはショートコード（任意）"
+
+msgid "Hide from Plugins List"
+msgstr "プラグイン一覧から非表示"
+
+msgid "Hides this plugin from the WordPress Plugins page."
+msgstr "WordPressのプラグインページからこのプラグインを非表示にします。"
+
+msgid "Icon"
+msgstr "アイコン"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Invalid import data."
+msgstr "無効なインポートデータです。"
+
+msgid "Label shown on the WooCommerce Settings tab."
+msgstr "WooCommerce設定タブに表示されるラベル。"
+
+msgid "Leave all unchecked = visible to everyone."
+msgstr "すべて未選択 = 全員に表示。"
+
+msgid "Leave roles empty = visible to all"
+msgstr "権限グループを空にする = 全員に表示"
+
+msgid "Link"
+msgstr "リンク"
+
+msgid "Live Preview"
+msgstr "ライブプレビュー"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Menu Builder"
+msgstr "メニュービルダー"
+
+msgid "Menu imported successfully!"
+msgstr "メニューが正常にインポートされました！"
+
+msgid "Menu item title"
+msgstr "メニュー項目のタイトル"
+
+msgid "Menu saved successfully!"
+msgstr "メニューが正常に保存されました！"
+
+msgid "My Account Menu"
+msgstr "マイアカウントメニュー"
+
+msgid "My Account Menu Builder"
+msgstr "マイアカウントメニュービルダー"
+
+msgid "New Tab"
+msgstr "新しいタブ"
+
+msgid "No menu items yet. Click \"Add Item\" to get started."
+msgstr "メニュー項目がありません。「項目を追加」をクリックして始めましょう。"
+
+msgid "None"
+msgstr "なし"
+
+msgid "Open In"
+msgstr "開く方法"
+
+msgid "Order Count"
+msgstr "注文数"
+
+msgid "Orders"
+msgstr "注文"
+
+msgid "Plugin Name"
+msgstr "プラグイン名"
+
+msgid "Quick Tips"
+msgstr "クイックヒント"
+
+msgid "Quick pick:"
+msgstr "クイック選択："
+
+msgid "Rebrand this plugin for client projects."
+msgstr "クライアントプロジェクト用にリブランドします。"
+
+msgid "Reset Defaults"
+msgstr "デフォルトに戻す"
+
+msgid ""
+"Reset menu to WooCommerce defaults? This will discard all customizations."
+msgstr "WooCommerceのデフォルトにリセットしますか？すべてのカスタマイズが失われます。"
+
+msgid "Same Tab"
+msgstr "同じタブ"
+
+msgid "Save Item"
+msgstr "項目を保存"
+
+msgid "Save Menu"
+msgstr "メニューを保存"
+
+msgid "Save Permalinks if new endpoints 404"
+msgstr "新しいエンドポイントが404の場合はパーマリンクを保存してください"
+
+msgid "Save Settings"
+msgstr "設定を保存"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Settings Tab Label"
+msgstr "設定タブのラベル"
+
+msgid "Settings saved! Reload to see changes."
+msgstr "設定が保存されました！変更を確認するにはリロードしてください。"
+
+msgid "Short description shown below title"
+msgstr "タイトルの下に表示される短い説明"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Title is required."
+msgstr "タイトルは必須です。"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL is required for link items."
+msgstr "リンク項目にはURLが必須です。"
+
+msgid ""
+"URL-friendly slug (lowercase, hyphens). Will appear as /my-account/your-"
+"slug/"
+msgstr "URL用スラッグ（小文字、ハイフン）。/my-account/スラッグ/ として表示されます"
+
+msgid "Use separators to group items"
+msgstr "区切り線で項目をグループ化"
+
+msgid "Visible to Roles"
+msgstr "権限グループの表示設定"
+
+msgid "Welcome to %s."
+msgstr "%sへようこそ。"
+
+msgid "White Label"
+msgstr "ホワイトラベル"
+
+msgid "White Label Settings"
+msgstr "ホワイトラベル設定"
+
+msgid "My Account Menu Builder for WooCommerce"
+msgstr "Woo マイアカウントメニュービルダー"
+
+msgid "WooCommerce is required. Please install and activate WooCommerce."
+msgstr "WooCommerceが必要です。WooCommerceをインストールして有効化してください。"
+
+msgid "e.g. New, Pro, Hot"
+msgstr "例：新着、Pro、人気"
+
+msgid "my-custom-class"
+msgstr "カスタムクラス名"

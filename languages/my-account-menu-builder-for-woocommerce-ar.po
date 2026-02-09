@@ -1,0 +1,261 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: My Account Menu Builder for WooCommerce 1.2.1\n"
+"Report-Msgid-Bugs-To: https://github.com/nurkamol/my-account-menu-builder-for-woocommerce/issues\n"
+"POT-Creation-Date: 2026-02-08 21:10\n"
+"PO-Revision-Date: 2026-02-08 21:10\n"
+"Last-Translator: Nurkamol Vakhidov <nurkamol@gmail.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: my-account-menu-builder-for-woocommerce\n"
+"X-Generator: My Account Menu Builder for WooCommerce\n"
+
+msgid "Account Details"
+msgstr "تفاصيل الحساب"
+
+msgid "Add Item"
+msgstr "إضافة عنصر"
+
+msgid "Add Menu Item"
+msgstr "إضافة عنصر قائمة"
+
+msgid "Add Separator"
+msgstr "إضافة فاصل"
+
+msgid "Addresses"
+msgstr "العناوين"
+
+msgid "Author Name"
+msgstr "اسم المؤلف"
+
+msgid "Author URL"
+msgstr "رابط المؤلف"
+
+msgid "Badge Text"
+msgstr "نص الشارة"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Custom CSS Class"
+msgstr "فئة CSS مخصصة"
+
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+msgid "Delete this menu item?"
+msgstr "حذف عنصر القائمة هذا؟"
+
+msgid "Description / Subtitle"
+msgstr "الوصف / العنوان الفرعي"
+
+msgid "Download Count"
+msgstr "عدد التنزيلات"
+
+msgid "Downloads"
+msgstr "التنزيلات"
+
+msgid "Drag items to reorder"
+msgstr "اسحب العناصر لإعادة الترتيب"
+
+msgid "Dynamic Count"
+msgstr "عداد ديناميكي"
+
+msgid "Enable White Label"
+msgstr "تفعيل العلامة البيضاء"
+
+msgid "Enabled"
+msgstr "مفعّل"
+
+msgid "Endpoint"
+msgstr "نقطة النهاية"
+
+msgid "Endpoint Content"
+msgstr "محتوى نقطة النهاية"
+
+msgid "Endpoint Slug"
+msgstr "الاسم اللطيف لنقطة النهاية"
+
+msgid "Endpoint content supports shortcodes"
+msgstr "محتوى نقطة النهاية يدعم الأكواد القصيرة"
+
+msgid "Endpoint slug is required."
+msgstr "الاسم اللطيف لنقطة النهاية مطلوب."
+
+msgid "Error saving menu."
+msgstr "خطأ في حفظ القائمة."
+
+msgid "Export"
+msgstr "تصدير"
+
+msgid "HTML or shortcodes for this page (optional)"
+msgstr "HTML أو أكواد قصيرة لهذه الصفحة (اختياري)"
+
+msgid "Hide from Plugins List"
+msgstr "إخفاء من قائمة الإضافات"
+
+msgid "Hides this plugin from the WordPress Plugins page."
+msgstr "يخفي هذه الإضافة من صفحة إضافات ووردبريس."
+
+msgid "Icon"
+msgstr "أيقونة"
+
+msgid "Import"
+msgstr "استيراد"
+
+msgid "Invalid import data."
+msgstr "بيانات استيراد غير صالحة."
+
+msgid "Label shown on the WooCommerce Settings tab."
+msgstr "التسمية المعروضة في تبويب إعدادات ووكومرس."
+
+msgid "Leave all unchecked = visible to everyone."
+msgstr "اترك الكل بدون تحديد = مرئي للجميع."
+
+msgid "Leave roles empty = visible to all"
+msgstr "اترك الأدوار فارغة = مرئي للجميع"
+
+msgid "Link"
+msgstr "رابط"
+
+msgid "Live Preview"
+msgstr "معاينة مباشرة"
+
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+msgid "Menu Builder"
+msgstr "منشئ القوائم"
+
+msgid "Menu imported successfully!"
+msgstr "تم استيراد القائمة بنجاح!"
+
+msgid "Menu item title"
+msgstr "عنوان عنصر القائمة"
+
+msgid "Menu saved successfully!"
+msgstr "تم حفظ القائمة بنجاح!"
+
+msgid "My Account Menu"
+msgstr "قائمة حسابي"
+
+msgid "My Account Menu Builder"
+msgstr "منشئ قائمة حسابي"
+
+msgid "New Tab"
+msgstr "تبويب جديد"
+
+msgid "No menu items yet. Click \"Add Item\" to get started."
+msgstr "لا توجد عناصر بعد. انقر على \"إضافة عنصر\" للبدء."
+
+msgid "None"
+msgstr "لا شيء"
+
+msgid "Open In"
+msgstr "فتح في"
+
+msgid "Order Count"
+msgstr "عدد الطلبات"
+
+msgid "Orders"
+msgstr "الطلبات"
+
+msgid "Plugin Name"
+msgstr "اسم الإضافة"
+
+msgid "Quick Tips"
+msgstr "نصائح سريعة"
+
+msgid "Quick pick:"
+msgstr "اختيار سريع:"
+
+msgid "Rebrand this plugin for client projects."
+msgstr "أعد تسمية هذه الإضافة لمشاريع العملاء."
+
+msgid "Reset Defaults"
+msgstr "إعادة التعيين"
+
+msgid ""
+"Reset menu to WooCommerce defaults? This will discard all customizations."
+msgstr ""
+"إعادة تعيين القائمة إلى إعدادات ووكومرس الافتراضية؟ سيتم تجاهل جميع "
+"التخصيصات."
+
+msgid "Same Tab"
+msgstr "نفس التبويب"
+
+msgid "Save Item"
+msgstr "حفظ العنصر"
+
+msgid "Save Menu"
+msgstr "حفظ القائمة"
+
+msgid "Save Permalinks if new endpoints 404"
+msgstr "احفظ الروابط الدائمة إذا أعطت نقاط النهاية الجديدة خطأ 404"
+
+msgid "Save Settings"
+msgstr "حفظ الإعدادات"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Settings Tab Label"
+msgstr "تسمية تبويب الإعدادات"
+
+msgid "Settings saved! Reload to see changes."
+msgstr "تم حفظ الإعدادات! أعد تحميل الصفحة لرؤية التغييرات."
+
+msgid "Short description shown below title"
+msgstr "وصف قصير يظهر أسفل العنوان"
+
+msgid "Title"
+msgstr "العنوان"
+
+msgid "Title is required."
+msgstr "العنوان مطلوب."
+
+msgid "Type"
+msgstr "النوع"
+
+msgid "URL"
+msgstr "الرابط"
+
+msgid "URL is required for link items."
+msgstr "الرابط مطلوب لعناصر الروابط."
+
+msgid ""
+"URL-friendly slug (lowercase, hyphens). Will appear as /my-account/your-"
+"slug/"
+msgstr ""
+"اسم لطيف متوافق مع الروابط (حروف صغيرة وشرطات). سيظهر كـ /my-account/اسمك/"
+
+msgid "Use separators to group items"
+msgstr "استخدم الفواصل لتجميع العناصر"
+
+msgid "Visible to Roles"
+msgstr "مرئي للأدوار"
+
+msgid "Welcome to %s."
+msgstr "مرحبًا بك في %s."
+
+msgid "White Label"
+msgstr "العلامة البيضاء"
+
+msgid "White Label Settings"
+msgstr "إعدادات العلامة البيضاء"
+
+msgid "My Account Menu Builder for WooCommerce"
+msgstr "Woo منشئ قائمة حسابي"
+
+msgid "WooCommerce is required. Please install and activate WooCommerce."
+msgstr "ووكومرس مطلوب. يرجى تثبيت وتفعيل ووكومرس."
+
+msgid "e.g. New, Pro, Hot"
+msgstr "مثال: جديد، احترافي، رائج"
+
+msgid "my-custom-class"
+msgstr "فئة-css-مخصصة"
