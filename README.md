@@ -14,6 +14,10 @@
 
 <p align="center">The easiest way to customize the WooCommerce My Account page menu — drag & drop, custom pages, icons, badges, role-based visibility, and more.</p>
 
+<p align="center">
+  <img src="assets/banner-1544x500.png" alt="My Account Menu Builder for WooCommerce">
+</p>
+
 ---
 
 ## ✨ Features
@@ -44,6 +48,22 @@
 ### Requirements
 
 - WordPress 5.8+, PHP 7.4+, WooCommerce 5.0+
+
+---
+
+## 📸 Screenshots
+
+| Drag & drop menu builder | Add / edit menu item modal |
+|:---:|:---:|
+| ![Menu Builder](assets/screenshot-1.png) | ![Edit Item](assets/screenshot-2.png) |
+
+| Frontend result | White label settings |
+|:---:|:---:|
+| ![Frontend](assets/screenshot-3.png) | ![White Label](assets/screenshot-4.png) |
+
+| Export / Import | Role-based visibility |
+|:---:|:---:|
+| ![Export Import](assets/screenshot-5.png) | ![Roles](assets/screenshot-6.png) |
 
 ---
 
