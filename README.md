@@ -1,12 +1,18 @@
 # My Account Menu Builder for WooCommerce
 
-[![WordPress](https://img.shields.io/badge/WordPress-5.8%2B-blue.svg)](https://wordpress.org/)
-[![WooCommerce](https://img.shields.io/badge/WooCommerce-5.0%E2%80%9310.5-96588a.svg)](https://woocommerce.com/)
-[![PHP](https://img.shields.io/badge/PHP-7.4%2B-777bb4.svg)](https://php.net/)
-[![HPOS Compatible](https://img.shields.io/badge/HPOS-Compatible-brightgreen.svg)](#)
-[![License](https://img.shields.io/badge/License-GPLv2-green.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+<p align="center">
+  <img src="assets/icon-256x256.png" alt="My Account Menu Builder for WooCommerce" width="128" height="128">
+</p>
 
-The easiest way to customize the WooCommerce My Account page menu — drag & drop, custom pages, icons, badges, role-based visibility, and more.
+<p align="center">
+  <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-5.8%2B-blue.svg" alt="WordPress"></a>
+  <a href="https://woocommerce.com/"><img src="https://img.shields.io/badge/WooCommerce-5.0%E2%80%9310.5-96588a.svg" alt="WooCommerce"></a>
+  <a href="https://php.net/"><img src="https://img.shields.io/badge/PHP-7.4%2B-777bb4.svg" alt="PHP"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HPOS-Compatible-brightgreen.svg" alt="HPOS Compatible"></a>
+  <a href="https://www.gnu.org/licenses/gpl-2.0.html"><img src="https://img.shields.io/badge/License-GPLv2-green.svg" alt="License"></a>
+</p>
+
+<p align="center">The easiest way to customize the WooCommerce My Account page menu — drag & drop, custom pages, icons, badges, role-based visibility, and more.</p>
 
 ---
 
@@ -57,8 +63,8 @@ my-account-menu-builder-for-woocommerce/
 │   ├── icon-128x128.png               # Plugin icon
 │   └── screenshot-*.png               # Screenshots
 ├── languages/
-│   ├── woo-myaccount-builder.pot       # Translation template
-│   └── woo-myaccount-builder-*.po/mo   # Translations (10 languages)
+│   ├── my-account-menu-builder-for-woocommerce.pot       # Translation template
+│   └── my-account-menu-builder-for-woocommerce-*.po/mo   # Translations (10 languages)
 ├── readme.txt                          # WordPress.org readme
 ├── CHANGELOG.md
 └── LICENSE
