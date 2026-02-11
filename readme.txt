@@ -7,7 +7,7 @@ Tested up to: 6.9
 Requires PHP: 7.4
 WC requires at least: 5.0
 WC tested up to: 10.5
-Stable tag: 1.2.1
+Stable tag: 1.2.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -169,6 +169,11 @@ Yes! The plugin includes a `.pot` file and bundled translations for Spanish, Fre
 6. Export/Import — one-click migration between sites
 
 == Changelog ==
+
+= 1.2.2 - 2026-02-11 =
+* Changed: Font Awesome 6.5.1 now loaded from cdnjs.cloudflare.com CDN instead of bundled locally
+* Changed: Removed local fontawesome.min.css and webfonts directory
+* Changed: Plugin size reduced by ~63% (1.7 MB → 610 KB)
 
 = 1.2.1 - 2026-02-09 =
 * Updated: Plugin renamed from "Woo My Account Menu Builder" to "My Account Menu Builder for WooCommerce" to comply with WordPress.org trademark guidelines

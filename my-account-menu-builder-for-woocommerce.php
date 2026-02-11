@@ -3,7 +3,7 @@
  * Plugin Name: My Account Menu Builder for WooCommerce
  * Plugin URI: https://github.com/nurkamol/my-account-menu-builder-for-woocommerce
  * Description: Visual drag & drop builder for WooCommerce My Account menu. Custom endpoints, external links, icons, role-based visibility, badges, separators, and white-label mode.
- * Version: 1.2.1
+ * Version: 1.2.2
  * Author: Nurkamol Vakhidov
  * Author URI: https://nurkamol.com
  * License: GPL v2 or later
@@ -23,7 +23,7 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
 
-define( 'WMAB_VERSION', '1.2.1' );
+define( 'WMAB_VERSION', '1.2.2' );
 define( 'WMAB_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'WMAB_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'WMAB_PLUGIN_FILE', __FILE__ );

@@ -2,6 +2,13 @@
 
 All notable changes to **My Account Menu Builder for WooCommerce** will be documented in this file.
 
+## [1.2.2] - 2026-02-11
+
+### Changed
+- Font Awesome 6.5.1 now loaded from cdnjs.cloudflare.com CDN instead of bundled locally
+- Removed local `assets/css/fontawesome.min.css` and `assets/webfonts/` directory
+- Plugin size reduced by ~63% (1.7 MB → 610 KB)
+
 ## [1.2.1] - 2026-02-09
 
 ### Updated

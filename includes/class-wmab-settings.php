@@ -95,7 +95,7 @@ class WMAB_Settings {
         }
 
         wp_enqueue_style( 'dashicons' );
-        wp_enqueue_style( 'wmab-fontawesome', WMAB_PLUGIN_URL . 'assets/css/fontawesome.min.css', [], '6.5.1' );
+        wp_enqueue_style( 'wmab-fontawesome', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css', [], '6.5.1' );
         wp_enqueue_style( 'wmab-admin', WMAB_PLUGIN_URL . 'assets/css/admin.css', [], WMAB_VERSION );
 
         wp_enqueue_script( 'jquery-ui-sortable' );
