@@ -2,6 +2,13 @@
 
 All notable changes to **My Account Menu Builder for WooCommerce** will be documented in this file.
 
+## [1.2.3] - 2026-02-12
+
+### Fixed
+- Reverted Font Awesome 6.5.1 from external CDN back to local bundling (`assets/css/fontawesome.min.css` + `assets/webfonts/`) — WordPress.org Plugin Check disallows offloading styles to remote services
+- Renamed main plugin class from `WooMyAccountMenuBuilder` to `WMAB_Plugin` to comply with WordPress.org naming conventions (plugin prefix requirement)
+- Updated `@package` docblock tags across all files to match new class name
+
 ## [1.2.2] - 2026-02-11
 
 ### Changed

@@ -2,7 +2,7 @@
 /**
  * Frontend: overrides WooCommerce My Account navigation.
  *
- * @package WooMyAccountMenuBuilder
+ * @package WMAB_Plugin
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
@@ -123,7 +123,7 @@ class WMAB_Frontend {
         }
 
         wp_enqueue_style( 'dashicons' );
-        wp_enqueue_style( 'wmab-fontawesome', 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css', [], '6.5.1' );
+        wp_enqueue_style( 'wmab-fontawesome', WMAB_PLUGIN_URL . 'assets/css/fontawesome.min.css', [], '6.5.1' );
         wp_enqueue_style( 'wmab-frontend', WMAB_PLUGIN_URL . 'assets/css/frontend.css', [], WMAB_VERSION );
 
         wp_enqueue_script( 'wmab-frontend', WMAB_PLUGIN_URL . 'assets/js/frontend.js', [ 'jquery' ], WMAB_VERSION, true );

@@ -2,7 +2,7 @@
 /**
  * Custom endpoint registration and content rendering.
  *
- * @package WooMyAccountMenuBuilder
+ * @package WMAB_Plugin
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
