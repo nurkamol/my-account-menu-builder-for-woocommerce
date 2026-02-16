@@ -95,7 +95,6 @@ class WMAB_Settings {
         }
 
         wp_enqueue_style( 'dashicons' );
-        wp_enqueue_style( 'wmab-fontawesome', WMAB_PLUGIN_URL . 'assets/css/fontawesome.min.css', [], '6.5.1' );
         wp_enqueue_style( 'wmab-admin', WMAB_PLUGIN_URL . 'assets/css/admin.css', [], WMAB_VERSION );
 
         wp_enqueue_script( 'jquery-ui-sortable' );
@@ -225,6 +224,7 @@ class WMAB_Settings {
                                 <button type="button" class="button wmab-btn-add-separator"><span class="dashicons dashicons-minus"></span> <?php esc_html_e( 'Add Separator', 'my-account-menu-builder-for-woocommerce' ); ?></button>
                             </div>
                             <button type="button" class="button button-primary wmab-btn-save"><span class="dashicons dashicons-saved"></span> <?php esc_html_e( 'Save Menu', 'my-account-menu-builder-for-woocommerce' ); ?></button>
+                            <a href="<?php echo esc_url( wc_get_page_permalink( 'myaccount' ) ); ?>" target="_blank" class="button wmab-btn-preview"><span class="dashicons dashicons-visibility"></span> <?php esc_html_e( 'Frontend Preview', 'my-account-menu-builder-for-woocommerce' ); ?></a>
                         </div>
                         <div class="wmab-notice" style="display:none;"></div>
                         <ul class="wmab-sortable-list" id="wmab-menu-list"></ul>
@@ -350,14 +350,14 @@ class WMAB_Settings {
                                         'dashicons dashicons-bell', 'dashicons dashicons-shield',
                                         'dashicons dashicons-tag', 'dashicons dashicons-admin-home',
                                         'dashicons dashicons-format-chat', 'dashicons dashicons-tickets-alt',
-                                        'fa-solid fa-house', 'fa-solid fa-bag-shopping',
-                                        'fa-solid fa-file-invoice', 'fa-solid fa-truck',
-                                        'fa-solid fa-credit-card', 'fa-solid fa-gift',
-                                        'fa-solid fa-ticket', 'fa-solid fa-headset',
-                                        'fa-solid fa-bookmark', 'fa-solid fa-gear',
-                                        'fa-solid fa-bell', 'fa-solid fa-wallet',
-                                        'fa-regular fa-heart', 'fa-regular fa-star',
-                                        'fa-regular fa-file', 'fa-regular fa-circle-question',
+                                        'dashicons dashicons-admin-tools', 'dashicons dashicons-lock',
+                                        'dashicons dashicons-admin-home', 'dashicons dashicons-groups',
+                                        'dashicons dashicons-media-document', 'dashicons dashicons-portfolio',
+                                        'dashicons dashicons-archive', 'dashicons dashicons-megaphone',
+                                        'dashicons dashicons-awards', 'dashicons dashicons-lightbulb',
+                                        'dashicons dashicons-thumbs-up', 'dashicons dashicons-hammer',
+                                        'dashicons dashicons-visibility', 'dashicons dashicons-admin-settings',
+                                        'dashicons dashicons-sos', 'dashicons dashicons-info',
                                     ];
                                     foreach ( $icons as $ic ) {
                                         echo '<button type="button" class="wmab-icon-pick" data-icon="' . esc_attr( $ic ) . '" title="' . esc_attr( $ic ) . '"><i class="' . esc_attr( $ic ) . '"></i></button>';

@@ -5,9 +5,10 @@ Tags: woocommerce, my account, menu builder, custom endpoints, drag and drop
 Requires at least: 5.8
 Tested up to: 6.9
 Requires PHP: 7.4
+Requires Plugins: woocommerce
 WC requires at least: 5.0
 WC tested up to: 10.5
-Stable tag: 1.2.3
+Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -169,6 +170,13 @@ Yes! The plugin includes a `.pot` file and bundled translations for Spanish, Fre
 6. Export/Import — one-click migration between sites
 
 == Changelog ==
+
+= 1.3.0 - 2026-02-17 =
+* Added: Preview button in admin toolbar to open My Account page in a new tab
+* Added: `Requires Plugins: woocommerce` header (WordPress.org requirement)
+* Changed: Removed Font Awesome entirely — all icons now use WordPress Dashicons (zero additional weight)
+* Changed: Dynamic CSS now uses `wp_add_inline_style()` instead of inline `<style>` tag (coding standards compliance)
+* Changed: Removed screenshot/banner/icon PNGs from plugin zip (uploaded separately to SVN assets)
 
 = 1.2.3 - 2026-02-12 =
 * Fixed: Reverted Font Awesome 6.5.1 from external CDN back to local bundling (WordPress.org Plugin Check disallows offloading styles to remote services)

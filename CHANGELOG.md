@@ -2,6 +2,18 @@
 
 All notable changes to **My Account Menu Builder for WooCommerce** will be documented in this file.
 
+## [1.3.0] - 2026-02-17
+
+### Added
+- Preview button in admin toolbar — opens My Account page in a new tab for quick result checking
+- `Requires Plugins: woocommerce` header in both plugin file and readme.txt (WordPress.org requirement)
+
+### Changed
+- Removed Font Awesome entirely (CSS + 6 webfont files, ~1.1 MB) — all icons now use WordPress Dashicons which are bundled with core and add zero weight
+- Replaced all Font Awesome icons in the quick pick grid with Dashicons equivalents (36 icons available)
+- Dynamic separator CSS now uses `wp_add_inline_style()` instead of inline `<style>` tag in footer (WordPress.org coding standards compliance)
+- Removed screenshot, banner, and icon PNG files from installable plugin zip — these are uploaded separately to the WordPress.org SVN `/assets/` directory
+
 ## [1.2.3] - 2026-02-12
 
 ### Fixed

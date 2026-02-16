@@ -24,7 +24,6 @@ class WMAB_Frontend {
         add_filter( 'woocommerce_account_menu_items', [ $this, 'filter_menu_items' ], 999 );
         add_filter( 'woocommerce_get_endpoint_url', [ $this, 'filter_endpoint_url' ], 10, 4 );
         add_action( 'wp_enqueue_scripts', [ $this, 'enqueue_assets' ] );
-        add_action( 'wp_footer', [ $this, 'render_footer_css' ] );
     }
 
     /* ------------------------------------------------------------------
@@ -123,8 +122,13 @@ class WMAB_Frontend {
         }
 
         wp_enqueue_style( 'dashicons' );
-        wp_enqueue_style( 'wmab-fontawesome', WMAB_PLUGIN_URL . 'assets/css/fontawesome.min.css', [], '6.5.1' );
         wp_enqueue_style( 'wmab-frontend', WMAB_PLUGIN_URL . 'assets/css/frontend.css', [], WMAB_VERSION );
+
+        // Dynamic separator CSS via wp_add_inline_style (no inline <style> tags).
+        $dynamic_css = self::build_dynamic_css();
+        if ( $dynamic_css ) {
+            wp_add_inline_style( 'wmab-frontend', $dynamic_css );
+        }
 
         wp_enqueue_script( 'wmab-frontend', WMAB_PLUGIN_URL . 'assets/js/frontend.js', [ 'jquery' ], WMAB_VERSION, true );
 
@@ -180,14 +184,10 @@ class WMAB_Frontend {
     }
 
     /* ------------------------------------------------------------------
-     * Render icon CSS in footer
+     * Build dynamic CSS for separators
      * ----------------------------------------------------------------*/
 
-    public function render_footer_css() {
-        if ( ! function_exists( 'is_account_page' ) || ! is_account_page() ) {
-            return;
-        }
-
+    private static function build_dynamic_css() {
         $keyed = self::get_items_with_keys();
         $css   = '';
 
@@ -199,8 +199,6 @@ class WMAB_Frontend {
             }
         }
 
-        if ( $css ) {
-            echo '<style id="wmab-dynamic-css">' . wp_kses( $css, [] ) . '</style>' . "\n"; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- CSS only contains sanitized class names and static properties.
-        }
+        return $css;
     }
 }
