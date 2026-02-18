@@ -1,7 +1,7 @@
 === My Account Menu Builder for WooCommerce ===
 Contributors: nurkamol
 Donate link: https://nurkamol.com
-Tags: woocommerce, my account, menu builder, custom endpoints, drag and drop
+Tags: woocommerce, my account, menu builder, endpoints, drag and drop
 Requires at least: 5.8
 Tested up to: 6.9
 Requires PHP: 7.4
@@ -99,8 +99,6 @@ After activation, navigate to **WooCommerce → Settings → My Account Menu** t
 The settings are located at **WooCommerce → Settings → My Account Menu** tab.
 
 You can also click the **Settings** link on the Plugins page next to the plugin name.
-
-[youtube https://www.youtube.com/watch?v=PLACEHOLDER]
 
 == Frequently Asked Questions ==
 
@@ -234,6 +232,9 @@ Yes! The plugin includes a `.pot` file and bundled translations for Spanish, Fre
 * Live preview sidebar
 
 == Upgrade Notice ==
+
+= 1.3.0 =
+Lighter plugin: Font Awesome replaced with Dashicons (95% size reduction). Resolves all WordPress.org Plugin Check errors. Adds Frontend Preview button.
 
 = 1.2.1 =
 Plugin renamed to comply with WordPress.org trademark guidelines. Font Awesome bundled locally. Improved security hardening.
